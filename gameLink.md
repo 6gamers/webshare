@@ -27,7 +27,6 @@ Google Play   |  ~~https://play.google.com/store/apps/details?id=com.sixgamers.g
 
 
 ### JigsawU
-
 Platform      | Website
 ------------- | -------------
 App Store     |  ————
@@ -41,5 +40,3 @@ Platform      | Website
 App Store     |  ————
 Google Play   | ~~https://play.google.com/store/apps/details?id=com.sixgamers.perfumeInc~~
 
-Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsawInc
-Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsaw
