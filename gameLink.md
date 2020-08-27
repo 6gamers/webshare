@@ -37,6 +37,6 @@ Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigs
 
 Platform      | Website
 ------------- | -------------
-App Store     |  ————
+App Store     | ~~https://apps.apple.com/us/app/id1529421320~~
 Google Play   | ~~https://play.google.com/store/apps/details?id=com.sixgamers.perfumeInc~~
 
