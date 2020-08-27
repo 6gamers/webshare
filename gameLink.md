@@ -17,10 +17,29 @@ App Store     |  https://apps.apple.com/us/app/id1518516756
 Google Play   |  https://play.google.com/store/apps/details?id=com.lanwan.monsterkiller
 
 
+### Idle Landlord
+
+Platform      | Website
+------------- | -------------
+App Store     |  ————
+Google Play   |  ~~https://play.google.com/store/apps/details?id=com.sixgamers.globalTycoon~~
+
+
 
 ### JigsawU
 
 Platform      | Website
 ------------- | -------------
 App Store     |  ————
+Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsaw
+
+
+### Perfume Inc
+
+Platform      | Website
+------------- | -------------
+App Store     |  ————
+Google Play   | ~~https://play.google.com/store/apps/details?id=com.sixgamers.perfumeInc~~
+
+Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsawInc
 Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsaw
