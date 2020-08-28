@@ -18,8 +18,13 @@
             width: 100%;
             height: 100%;
             position: fixed;
-            background-size: cover;
-            background-position: 50%;
+            /* background-size: cover;
+            background-position: 50%; */
+
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: 50% 50%;
+
         }
 
         .button {
@@ -69,7 +74,7 @@
                 var scale = document.querySelector("#container").offsetWidth / 720;
                 // scale = Math.ceil(scale * 100);
                 var desss = "scale(" + scale.toFixed(2) + ")";
-                console.log(desss)
+                // console.log(desss)
                 document.querySelector("#btn").style.transform = desss;
             }
             window.onresize();
@@ -84,9 +89,7 @@
 <body>
     <div id="container">
         <!-- <button class="button" onclick="openGame()">Open Game</button> -->
-
         <img class="button" id="btn" src="./img/lv_btn.png" onclick="openGame()"></img>
-
     </div>
 </body>
 
