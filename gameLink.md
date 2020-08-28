@@ -33,7 +33,7 @@ App Store     |  ————
 Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsaw
 
 
-### Perfume Inc
+### Idle Perfume
 
 Platform      | Website
 ------------- | -------------
