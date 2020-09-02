@@ -6,7 +6,7 @@ Platform      |  Website
 ------------- | -------------
 App Store     |  ————
 Google Play   | https://play.google.com/store/apps/details?id=com.zsang.shawngames
-Facebook Page | https://fb.me/epicslots
+Facebook Page | https://fb.me/epicslots  `pageID:102388244937795`
 
 
 ### Monster Killer
@@ -22,7 +22,7 @@ Platform      | Website
 ------------- | -------------
 App Store     |  ————
 Google Play   |  ~~https://play.google.com/store/apps/details?id=com.sixgamers.globalTycoon~~
-Facebook Page | https://fb.me/idlelandlord
+Facebook Page | https://fb.me/idlelandlord   `pageID:104487991391353`
 
 
 ### JigsawU
