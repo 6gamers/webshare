@@ -20,7 +20,7 @@ Facebook Page |  https://www.facebook.com/Monster-Killer-104101524763777
 ### Idle Landlord
 Platform      | Website
 ------------- | -------------
-App Store     |  ————
+App Store     |  ~~https://apps.apple.com/us/app/id1530326290~~
 Google Play   |  ~~https://play.google.com/store/apps/details?id=com.sixgamers.globalTycoon~~
 Facebook Page | https://fb.me/idlelandlord   `pageID:104487991391353`
 
@@ -28,8 +28,8 @@ Facebook Page | https://fb.me/idlelandlord   `pageID:104487991391353`
 ### JigsawU
 Platform      | Website
 ------------- | -------------
-App Store     |  ————
-Google Play   | https://play.google.com/store/apps/details?id=com.sixgamers.jigsaw
+App Store     |  ~~https://apps.apple.com/us/app/id1528921695 ~~
+Google Play   |  ~~https://play.google.com/store/apps/details?id=com.sixgamers.jigsaw~~
 Facebook Page | https://www.facebook.com/JigsawU-101753695004344
 
 ### Idle Perfume
