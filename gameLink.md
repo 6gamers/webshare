@@ -21,7 +21,7 @@ Facebook Page |  https://www.facebook.com/Monster-Killer-104101524763777
 Platform      | Website
 ------------- | -------------
 App Store     |  https://apps.apple.com/us/app/id1530326290
-Google Play   |  ~~https://play.google.com/store/apps/details?id=com.sixgamers.globalTycoon~~
+Google Play   |  https://play.google.com/store/apps/details?id=com.sixgamers.globalTycoon
 Facebook Page | https://fb.me/idlelandlord   `pageID:104487991391353`
 
 
